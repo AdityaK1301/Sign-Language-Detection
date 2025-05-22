@@ -24,7 +24,7 @@ TensorFlow Object Detection API
 ## Cloning this repo
 
 ```bash
-git clone https://github.com/your-username/Sign-Language-Detection.git
+git clone https://github.com/AdityaK1301/Sign-Language-Detection.git
 cd Sign-Language-Detection
 ```
 
